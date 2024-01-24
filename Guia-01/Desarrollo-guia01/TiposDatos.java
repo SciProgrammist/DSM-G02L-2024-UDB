@@ -3,6 +3,8 @@
     Asignatura Java Avanzada
     Programa de ejemplo de datos en Java.
     API: Es un conjunto de funciones y clases.
+     que su proposito es facilitar de desarrollo de aplicaciones
+    API C standard: POSIX
 */
 
 public class TiposDatos{
